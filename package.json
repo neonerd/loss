@@ -1,0 +1,20 @@
+{
+  "name": "loss",
+  "version": "0.0.1",
+  "description": "Personal knowledge database",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Andrej Sykora",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "markdown": "^0.5.0",
+    "nedb": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2"
+  }
+}
